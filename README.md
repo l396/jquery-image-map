@@ -36,5 +36,5 @@ jQuery图片热点链接添加编辑插件
 
 - 2、map标签，name属性与img标签的usemap属性对应起来，这个标签包含初始化时这个图片具有的热点链接。
 
-	//绑定插件功能
-	$('#imgMap').imageMaps();
+    // 绑定插件功能
+    $('#imgMap').imageMaps();
